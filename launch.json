@@ -8,10 +8,8 @@
     ]
   
     // Other properties may be here.
-}
-  
-{
-
+  }
+  {
     "name": "Word Desktop (Edge Legacy)",
     "type": "office-addin",
     "request": "attach",
@@ -21,5 +19,5 @@
     "webRoot": "${workspaceRoot}",
     "preLaunchTask": "Debug: Word Desktop",
     "postDebugTask": "Stop Debug",
- 
+
 }
